@@ -3,6 +3,7 @@
 Release Notes
 =============
 
+- :support:`-` This version of pretalx has higher database version requirements. We now support PostgreSQL 9.5+, MariaDB 10.1+, MySQL 5.6+, and SQLite 3.8.3+.
 - :feature:`-` Review scores are now consistently shown as numbers, and the text representation/meaning of those numbers is shown on hover.
 - :feature:`-` Reviewers can now see both their own score and the median score in the review dashboard.
 - :feature:`-` People without edit or delete permissions are not shown the edit or delete buttons on submissions anymore.
